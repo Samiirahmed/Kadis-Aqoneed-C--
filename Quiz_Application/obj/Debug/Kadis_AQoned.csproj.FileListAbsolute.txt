@@ -1,0 +1,20 @@
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\bin\Debug\Quiz_Application.exe.config
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\bin\Debug\Quiz_Application.exe
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\bin\Debug\Quiz_Application.pdb
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\obj\Debug\Kadis_AQoned.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\obj\Debug\Quiz_Application.Properties.Resources.resources
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\obj\Debug\Quiz_Application.Quiz_Form.resources
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\obj\Debug\Kadis_AQoned.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\obj\Debug\Kadis_AQoned.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\obj\Debug\Quiz_Application.exe
+C:\Users\HP\Desktop\C# Quiz Project Source Code\Quiz_Application\Quiz_Application\obj\Debug\Quiz_Application.pdb
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\bin\Debug\Quiz_Application.exe.config
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\bin\Debug\Quiz_Application.exe
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\bin\Debug\Quiz_Application.pdb
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\obj\Debug\Kadis_AQoned.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\obj\Debug\Quiz_Application.Properties.Resources.resources
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\obj\Debug\Quiz_Application.Quiz_Form.resources
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\obj\Debug\Kadis_AQoned.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\obj\Debug\Kadis_AQoned.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\obj\Debug\Quiz_Application.exe
+C:\Users\HP\Desktop\C# my project\Quiz_Application\Quiz_Application\obj\Debug\Quiz_Application.pdb
